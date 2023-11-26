@@ -1,5 +1,4 @@
-# Hotel Booking: [video](https://www.youtube.com/watch?v=6kQz3kwmcYI)
-
+# Hotel Booking: [Video entrega final](https://www.youtube.com/watch?v=BNoyMUijuII)
 ## Miembros del grupo
 
 - Cristian Camilo Serna Betancur, CC 1018351871, Ingeniería de Sistemas
